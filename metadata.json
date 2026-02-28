@@ -1,0 +1,5 @@
+{
+  "name": "Celina Data Racing Generator",
+  "description": "Transform your Excel or CSV datasets into professional Bar Chart Race animations with built-in ETL processing, gap filling, and cumulative data calculation.",
+  "requestFramePermissions": []
+}
